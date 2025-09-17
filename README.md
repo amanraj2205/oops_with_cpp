@@ -44,13 +44,13 @@ To use these programs, you'll need a C++ compiler installed on your system (like
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/your-repository-name.git
+    git clone https://github.com/amanraj2205/oops_with_cpp.git
     ```
 
 2.  **Navigate to the directory:**
 
     ```bash
-    cd your-repository-name
+    cd oops_with_cpp
     ```
 
 3.  **Compile a program:**
